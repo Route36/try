@@ -1,6 +1,11 @@
 *{
 	font-family:arial
 }
+body{
+	background-image: url(WhatsApp\ Image\ 2021-09-02\ at\ 12.01.47\ PM.jpeg);
+	background-size: cover;
+	height: 100vh;
+}
 .container {
 	width:80%;
 	margin : 15px auto;
